@@ -69,7 +69,7 @@ This project is open-source and available under the MIT License.
 
 
 
-🚀 Push BashSelect-AdminToolkit to GitHub 🚀
+# 🚀 Push BashSelect-AdminToolkit to GitHub 🚀
 # 1. Navigate to your project directory:
  ```bash cd /home/amiramohamed/BashSelect-AdminToolkit ```
 
