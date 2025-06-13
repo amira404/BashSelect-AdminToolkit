@@ -69,27 +69,26 @@ This project is open-source and available under the MIT License.
 
 
 
-```bash cd /home/amiramohamed/BashSelect-AdminToolkit ```
 🚀 Push BashSelect-AdminToolkit to GitHub 🚀
-1) Navigate to your project directory:
+# 1) Navigate to your project directory:
  ```bash cd /home/amiramohamed/BashSelect-AdminToolkit ```
 
-2) Initialize a new Git repository:
+# 2) Initialize a new Git repository:
 ```bash git init ```
 
-3) Connect your local repo to GitHub:
+# 3) Connect your local repo to GitHub:
 ```bash git remote add origin https://github.com/amiramohamed/BashSelect-AdminToolkit.git```
 
-4) Add all project files to staging:
+# 4) Add all project files to staging:
 ```bash git add . ```
 
-5) Commit the files with a message:
+# 5) Commit the files with a message:
 ```bash git commit -m "Initial commit - admin toolkit using select interface" ```
 
-6) Rename the current branch to main:
+# 6) Rename the current branch to main:
 ```bash git branch -M main ```
 
-7) Push the project to GitHub:
+# 7) Push the project to GitHub:
 ```bash git push -u origin main ```
 
 
