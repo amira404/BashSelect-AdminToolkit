@@ -1,19 +1,19 @@
-🧩 BashSelect-AdminToolkit
-An Interactive Linux User & Group Management Toolkit (Select-Based Version)
-Easy-to-use Bash scripts with a select-based interface for terminal-based system administration.
+# 🧩 BashSelect-AdminToolkit
+# An Interactive Linux User & Group Management Toolkit (Select-Based Version)
+# Easy-to-use Bash scripts with a select-based interface for terminal-based system administration.
 
 ![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-blue?logo=gnubash)
 
 🛠️ About the Project
 This project offers a menu-driven Bash interface (using select) for Linux system administrators to efficiently manage users and groups. It simplifies common admin tasks such as adding users, modifying attributes, and handling groups—all without memorizing complex commands.
 📌 Features
-✅ Add users (single, from file, or bulk)
-✅ Modify usernames, UIDs, shells, and group membership
-✅ Lock and unlock user accounts
-✅ Change user passwords
-✅ Add groups manually or via CSV/txt file
-✅ Modify group names and GIDs
-✅ View users and groups (simple list)
+# ✅ Add users (single, from file, or bulk)
+# ✅ Modify usernames, UIDs, shells, and group membership
+# ✅ Lock and unlock user accounts
+# ✅ Change user passwords
+# ✅ Add groups manually or via CSV/txt file
+# ✅ Modify group names and GIDs
+# ✅ View users and groups (simple list)
 
 
 | Script Name                 | Functionality                            |
