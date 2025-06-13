@@ -6,7 +6,7 @@
 
 🛠️ About the Project
 This project offers a menu-driven Bash interface (using select) for Linux system administrators to efficiently manage users and groups. It simplifies common admin tasks such as adding users, modifying attributes, and handling groups—all without memorizing complex commands.
-📌 Features
+# 📌 Features
 # ✅ Add users (single, from file, or bulk)
 # ✅ Modify usernames, UIDs, shells, and group membership
 # ✅ Lock and unlock user accounts
@@ -61,10 +61,10 @@ BashSelect-AdminToolkit/
 3) passwd, usermod, groupmod, useradd, groupadd, etc.
 4) openssl (for generating random passwords)
 
-👩‍💻 Author
+# 👩‍💻 Author
 Amira Mohamed
 
-🔗 License
+# 🔗 License
 This project is open-source and available under the MIT License.
 
 
